@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Shop Suite">
+
+<test name="AddProduct Test">
+    <classes>
+        <class name="com.javawebdriver.suiteA.AddProductTest" ></class>  
+    </classes>
+</test>
+
+</suite>
+
